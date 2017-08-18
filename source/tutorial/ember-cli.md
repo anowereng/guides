@@ -35,11 +35,7 @@ directories:
 
 ```text
 |--app
-|--config
-|--node_modules
-|--public
-|--tests
-|--vendor
+|--co
 
 <other files>
 
